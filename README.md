@@ -1,4 +1,4 @@
-[noseeee.html](https://github.com/user-attachments/files/23061780/noseeee.html)
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
