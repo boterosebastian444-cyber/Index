@@ -99,6 +99,7 @@
   <section id="pagina1" class="active">
     <h2>Bienvenido a Z-Shoes</h2>
     <p>En <strong>Z-Shoes</strong> encontrarás la mejor selección de zapatos para cada ocasión. Comodidad, estilo y calidad al mejor precio.</p>
+    <p>Create by: Juan David Serpa y Sebastian Botero Jaramillo.</p>
 
     <div class="catalogo">
       <div class="producto">
